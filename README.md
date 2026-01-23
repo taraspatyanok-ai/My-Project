@@ -8,8 +8,8 @@
 
 # i wrote it from home laptop
 
-Checked in local and added wit new brunch
+# Checked in local and added wit new brunch
 
-no, this one is from another branch
-I wrote it without raw from branch
+# no, this one is from another branch
+# I wrote it without raw from branch
 
